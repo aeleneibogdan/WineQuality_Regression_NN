@@ -25,3 +25,5 @@ In total,  in each dataset there are 12 attributes that are playing a key role i
 The white wine data set contains 4898 instances, while the red wine data set contains only 1599 instances, each representing a feature of the wine based on the  physicochemical tests.
 
 We will use two types of algorithms: Multilayer Perceptron Regressor and Random Forest Regressor
+
+made with spyder(anaconda3)
